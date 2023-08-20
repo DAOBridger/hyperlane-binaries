@@ -3,3 +3,8 @@ validatordb
 relayerdb
 kathydb
 config/test_config.json
+
+.vscode
+
+validator.env
+relayer.env
